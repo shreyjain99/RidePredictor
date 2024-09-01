@@ -17,6 +17,17 @@
 <br>
 
 <p>
+<strong>Constraints :</strong>
+</p>
+<ol>
+<li>Latency (few seconds) </li>
+<li>Interpretability</li>
+<li>Relative Errors</li>
+</ol>
+
+<br>
+
+<p>
 <strong>Get the data from :</strong> http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) 
 </p>
