@@ -12,8 +12,8 @@
 <strong>Get the data from :</strong> http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) 
 </p>
-
-
+<br>
+<br>
 <p>
 <strong>Data Collection :</strong>
 We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-2016 to mar-2016
