@@ -11,6 +11,12 @@
 <br>
 
 <p>
+<strong>Business Objective :</strong> If you are a taxi driver we want to predict how many cabs or pick-ups are possible in regions of new york city at a time. The end user or customer of this solution is taxi driver.
+</p>
+
+<br>
+
+<p>
 <strong>Get the data from :</strong> http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) 
 </p>
