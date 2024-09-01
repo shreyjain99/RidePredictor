@@ -191,3 +191,13 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 <p> 
 To solve the above we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.
 </p>
+
+<br>
+
+<p>
+<strong>Performance metrics :</strong>
+</p>
+<ol>
+Mean Absolute percentage error.
+Mean Squared error.
+</ol>
