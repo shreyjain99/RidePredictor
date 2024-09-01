@@ -7,3 +7,57 @@
 <hr width="100%" size="2">
 
 <h4 align= "left"><em>About Project (Data and Problem formulation)</em></h4>
+
+<p>
+Get the data from : http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) 
+</p>
+
+<p>
+<strong>Data Collection</strong>
+We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-2016 to mar-2016
+</p>
+<table>
+<tr>
+<th> file name </th>
+<th> file name size</th>
+<th> number of records </th>
+<th> number of features </th>
+</tr>
+<tr>
+<td> yellow_tripdata_2016-01 </td>
+<td> 1. 59G </td>
+<td> 10906858 </td>
+<td> 19 </td>
+</tr>
+<tr>
+<td> yellow_tripdata_2016-02 </td>
+<td> 1. 66G </td>
+<td> 11382049 </td>
+<td> 19 </td>
+</tr>
+<tr>
+<td> yellow_tripdata_2016-03 </td>
+<td> 1. 78G </td>
+<td> 12210952 </td>
+<td> 19 </td>
+</tr>
+<tr>
+<td> yellow_tripdata_2015-01 </td>
+<td> 1.84Gb </td>
+<td> 12748986 </td>
+<td> 19 </td>
+</tr>
+<tr>
+<td> yellow_tripdata_2015-02 </td>
+<td> 1.81Gb </td>
+<td> 12450521 </td>
+<td> 19 </td>
+</tr>
+<tr>
+<td> yellow_tripdata_2015-03 </td>
+<td> 1.94Gb </td>
+<td> 13351609 </td>
+<td> 19 </td>
+</tr>
+</table>
