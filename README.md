@@ -13,7 +13,6 @@
 The data used in the attached datasets were collected and provided to the NYC Taxi and Limousine Commission (TLC) 
 </p>
 
-<p> </p>
 
 <p>
 <strong>Data Collection</strong>
