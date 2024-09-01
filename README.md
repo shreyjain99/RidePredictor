@@ -7,7 +7,7 @@
 <hr width="100%" size="2">
 
 <h4 align= "left"><em>About Project (Data and Problem formulation)</em></h4>
-<br>
+
 <br>
 <p>
 <strong>Get the data from :</strong> http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
