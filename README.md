@@ -6,7 +6,7 @@
 
 <hr width="100%" size="2">
 
-<h4 align= "left"><em>About Project (Data and Problem formulation)</em></h4>
+<h4 align= "left"><u>About Project (Data and Problem formulation)</u></h4>
 
 <br>
 <p>
