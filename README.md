@@ -206,7 +206,7 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 <p><b><u> Time-series forecasting and Regression</u></b></p>
 -<i> To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions therefore we predict number of pickups accurately as possible for each region in a 10 min interval.</i> (we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.)
 
-
+<br>
 <br>
 
 <p>
