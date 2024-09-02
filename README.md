@@ -218,7 +218,6 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 </ol>
 
 <br>
-<br>
 
 <body>
 
