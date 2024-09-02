@@ -6,7 +6,7 @@
 
 <hr width="100%" size="2">
 
-<h4 align= "left"> <b> About Project (Data and Problem formulation) </b> </h4>
+<h3 align= "left"> <b> Key Project Formulation </b> </h3>
 
 <br>
 
@@ -222,24 +222,18 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 
 <body>
 
-  <h1>NYC Taxi Demand Forecasting Project Summary</h1>
+  <h3>Summary</h3>
 
-  <h2>Project Overview</h2>
-    <p>This project focuses on <strong>time-series forecasting and regression</strong> to accurately predict the number of taxi pickups in various regions of New York City, based on location coordinates (latitude and longitude) and time. The goal is to forecast the number of pickups for each region at 10-minute intervals using data from January to March 2015 to predict pickups for the same period in 2016.</p>
-
-  <h2>Business Objective</h2>
-    <p>The primary business objective is to provide taxi drivers with a predictive tool that estimates the number of potential pickups in different regions of New York City at any given time. By accurately forecasting demand, taxi drivers can position themselves more strategically to maximize their earnings.</p>
-
-  <h2>Data Processing</h2>
+  <h4>Data Processing</h4>
     <p>The project begins with data cleaning and the removal of outliers through univariate analysis of key features. This step ensures that the data used for modeling is both accurate and relevant.</p>
 
-  <h2>Clustering and Region Division</h2>
+  <h4>Clustering and Region Division</h4>
     <p>Following data cleaning, the city is divided into 40 regions based on clustering techniques that consider both distance and time intervals. This division allows for a more granular and accurate prediction of taxi demand across the city.</p>
 
-  <h2>Prediction Framework</h2>
+  <h4>Prediction Framework</h4>
     <p>For each region, the data is broken down into 10-minute time intervals, and the number of pickups within each interval is predicted. The modeling process begins with baseline models, including moving averages, moving weighted averages, and exponential averages, which serve as simple predictors of demand.</p>
 
-   <h2>Advanced Modeling</h2>
+   <h4>Advanced Modeling</h4>
     <p>The project then advances to more sophisticated machine learning models, including linear regression, Random Forest regressor, and XGBoost regressor. These models are employed to enhance prediction accuracy by leveraging the complex relationships in the data.</p>
 
   <p>The final output of the project is a robust predictive model that can help taxi drivers optimize their routes and improve their earnings by forecasting the most promising areas for pickups in real-time.</p>
