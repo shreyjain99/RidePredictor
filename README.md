@@ -217,6 +217,8 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 <li>Mean Squared error</li>
 </ol>
 
+<hr width="100%" size="2">
+
 <br>
 
 <body>
@@ -238,3 +240,17 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
   <p>The final output of the project is a robust predictive model that can help taxi drivers optimize their routes and improve their earnings by forecasting the most promising areas for pickups in real-time.</p>
 
 </body>
+
+<hr width="100%" size="2">
+<br>
+
+<p>
+<strong>Future Scope :</strong>
+</p>
+<ol>
+<li>Incorporate fourier transform features as features into regression models </li>
+<li>Perform hyperparameter tuning for regression models</li>
+<li>Try more regression models as well as artificial neural nets (ann)</li>
+</ol>
+
+<hr width="100%" size="2">
