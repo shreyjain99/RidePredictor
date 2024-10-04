@@ -254,3 +254,27 @@ We Have collected all yellow taxi trips data of jan-2015 to mar-2015 and jan-201
 </ol>
 
 <hr width="100%" size="2">
+<br>
+
+
+<p>
+<strong>Skills and Software Tools Used in the Project :</strong>
+</p>
+    <ul>
+        <li>Data Analysis</li>
+        <li>Machine Learning</li>
+        <li>Statistical Analysis</li>
+        <li>Clustering Techniques</li>
+        <li>Time Series Analysis</li>
+        <li>Regression</li>
+        <li>Python</li>
+        <li>Jupyter Notebook</li>
+        <li>Scikit-learn</li>
+        <li>Pandas</li>
+        <li>NumPy</li>
+        <li>Matplotlib</li>
+        <li>Seaborn</li>
+    </ul>
+
+
+<hr width="100%" size="2">
